@@ -1,4 +1,4 @@
-# Food Express 🍔
+# FoodExpress 🍔
 
 Food Express is a modern, high-performance Food Delivery Application UI built with **Kotlin** and **XML**. The project focuses on a seamless user experience, professional design, and clean architecture using the latest Android development practices.
 
